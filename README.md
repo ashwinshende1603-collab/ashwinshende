@@ -33,7 +33,7 @@
 | 🏠 [Air-Bnb-final-analysis](https://github.com/ashwinshende/Air-Bnb-final-analysis) | In-depth analysis of Airbnb listings and pricing trends | Python, Pandas, Matplotlib |
 | ☕ [Coffee-sales-analysis](https://github.com/ashwinshende/Coffee-sales-analysis) | Sales insights and performance visualization for coffee business | Python, Excel, Seaborn |
 | 🎬 [MAVEN-RENTAL-MOVIES-ANALYSIS](https://github.com/ashwinshende/MAVEN-RENTAL-MOVIES-ANALYSIS) | SQL-based movie rental insights and database exploration | MySQL, SQL Queries |
-| 🚗 [Indian_Car_Dataset_Analysis](https://github.com/ashwinshende/Indian_Car_Dataset_Analysis) | Exploratory data analysis of Indian car market under ₹20 lakhs | Python, Pandas, Seaborn |
+| 🚗 [Indian_Car_Dataset_Analysis](https://github.com/ashwinshende/Indian_Car_Dataset_Analysis) | Exploratory data analysis of Indian car market | Python, Pandas, Seaborn |
 
 ---
 
