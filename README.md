@@ -7,7 +7,7 @@
 ### 💡 About Me
 - 🎯 Passionate about discovering insights from data and building data-driven solutions  
 - 📊 Skilled in **Python**, **SQL**, **Excel**, and **Data Visualization**  
-- 🌱 Currently learning  **Power BI**  
+- 🌱 Currently learning **Machine Learning** and **Power BI**  
 - 💬 Ask me about **Data Analysis**, **Visualization**, and **Python Projects**  
 - 📫 Reach me at: **ashwinshende1603@gmail.com**  
 
@@ -36,7 +36,6 @@
 | 🚗 [Indian_Car_Dataset_Analysis](https://github.com/ashwinshende/Indian_Car_Dataset_Analysis) | Exploratory data analysis of Indian car market | Python, Pandas, Seaborn |
 
 ---
-
 
 ### 🤝 Connect With Me
 <p align="center">
