@@ -6,7 +6,7 @@
 ### 💡 About Me
 - 🎯 Passionate about discovering insights from data and building data-driven solutions  
 - 📊 Skilled in **Python**, **SQL**, **Excel**, and **Data Visualization**  
-- 🌱 Currently learning **Machine Learning** and **Power BI**  
+- 🌱 Currently learning **Power BI**  
 - 💬 Ask me about **Data Analysis**, **Visualization**, and **Python Projects**  
 - 📫 Reach me at: **ashwinshende1603@gmail.com**  
 
