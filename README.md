@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-005571?logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+ 
 </p>
 
 ---
